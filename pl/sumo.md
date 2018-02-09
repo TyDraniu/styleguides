@@ -48,6 +48,7 @@ or
 | Firefox Rocket | (aplikacja) Firefox Rocket |
 | Firefox for Fire TV | (aplikacja) Firefox for Fire TV |
 | Firefox Focus | (aplikacja) Firefox Focus |
+| Thunderbird | Thunderbird, program Thunderbird (+odmiany słowa "program") |
 
 ### Frequently used terms
 
